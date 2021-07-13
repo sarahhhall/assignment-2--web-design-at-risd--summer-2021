@@ -49,4 +49,14 @@ h1 {
 #track-list {
     margin-bottom: 45px;
 }
+
+blockquote {
+    box-shadow: 0px 12px 44px rgba(0, 0, 0, 0.16);
+    padding: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 14px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #589779;
 }
