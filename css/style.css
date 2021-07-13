@@ -1,0 +1,14 @@
+body {
+    font-family: 'Quicksand';
+}
+
+h1 {
+    font-family: 'Quicksand';
+    font-weight: 700;
+    font-size: 50px;
+    font-style: italic;
+}
+
+p: .image-credit {
+    font-size: 12px;
+}
