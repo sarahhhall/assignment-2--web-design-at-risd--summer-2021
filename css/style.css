@@ -9,6 +9,7 @@ h1 {
     font-style: italic;
 }
 
-p: .image-credit {
+p.image-credit {
+    font-family: 'Quicksand';
     font-size: 12px;
 }
