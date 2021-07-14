@@ -53,6 +53,10 @@ h1 {
 
 #track-list {
     margin-bottom: 45px;
+    border: solid;
+    border-radius: 15px;
+    max-width: 300px;
+    padding: 20px;
 }
 
 blockquote {
@@ -70,4 +74,8 @@ a {
     font-weight: 700;
     color: #27322C;
     text-decoration: none;
+}
+
+.track-list-title {
+    margin-top: 0;
 }
