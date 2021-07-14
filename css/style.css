@@ -16,6 +16,7 @@ h1 {
     max-width: 770px;
     border-radius: 10px;
     color: white;
+    box-shadow: 0px 14px 50px rgb(0 0 0 / 18%);
 }
 
 .image-credit {
@@ -53,7 +54,7 @@ h1 {
 
 #track-list {
     margin-bottom: 45px;
-    border: solid;
+    border: 6px solid #C1E2E0;
     border-radius: 15px;
     max-width: 300px;
     padding: 20px;
@@ -67,7 +68,8 @@ blockquote {
     border-radius: 14px;
     margin-top: 30px;
     margin-bottom: 30px;
-    color: #589779;
+    color: white;
+    background: #94CEC8;
 }
 
 a {
